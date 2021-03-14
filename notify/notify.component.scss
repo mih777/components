@@ -1,0 +1,25 @@
+.unvisible{
+    visibility: hidden;
+}
+
+.alert{
+    border-radius: 29px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    h3{
+        color: white;
+    }
+}
+
+.sucsess{
+    background-color: #137b13;
+}
+
+.fail{
+    background-color: #7b1613;
+}
