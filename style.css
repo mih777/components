@@ -1,0 +1,17 @@
+a{
+    color: rgb(102, 33, 167);
+    text-decoration: none;
+    font-size: 30px;
+    
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+.main{ 
+    margin: 0 auto;
+    width: 50%;
+}
+    
